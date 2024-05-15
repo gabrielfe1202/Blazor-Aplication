@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\Blazor-Aplication\Blazor.AplicationWeb\Shared\bin\Debug\net6.0\Blazor.AplicationWeb.Shared.deps.json
+C:\Users\Gabriel\source\repos\Blazor-Aplication\Blazor.AplicationWeb\Shared\bin\Debug\net6.0\Blazor.AplicationWeb.Shared.dll
+C:\Users\Gabriel\source\repos\Blazor-Aplication\Blazor.AplicationWeb\Shared\bin\Debug\net6.0\Blazor.AplicationWeb.Shared.pdb
+C:\Users\Gabriel\source\repos\Blazor-Aplication\Blazor.AplicationWeb\Shared\obj\Debug\net6.0\Blazor.AplicationWeb.Shared.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Blazor-Aplication\Blazor.AplicationWeb\Shared\obj\Debug\net6.0\Blazor.AplicationWeb.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Blazor-Aplication\Blazor.AplicationWeb\Shared\obj\Debug\net6.0\Blazor.AplicationWeb.Shared.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Blazor-Aplication\Blazor.AplicationWeb\Shared\obj\Debug\net6.0\Blazor.AplicationWeb.Shared.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Blazor-Aplication\Blazor.AplicationWeb\Shared\obj\Debug\net6.0\Blazor.AplicationWeb.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Blazor-Aplication\Blazor.AplicationWeb\Shared\obj\Debug\net6.0\Blazor.AplicationWeb.Shared.dll
+C:\Users\Gabriel\source\repos\Blazor-Aplication\Blazor.AplicationWeb\Shared\obj\Debug\net6.0\refint\Blazor.AplicationWeb.Shared.dll
+C:\Users\Gabriel\source\repos\Blazor-Aplication\Blazor.AplicationWeb\Shared\obj\Debug\net6.0\Blazor.AplicationWeb.Shared.pdb
+C:\Users\Gabriel\source\repos\Blazor-Aplication\Blazor.AplicationWeb\Shared\obj\Debug\net6.0\ref\Blazor.AplicationWeb.Shared.dll

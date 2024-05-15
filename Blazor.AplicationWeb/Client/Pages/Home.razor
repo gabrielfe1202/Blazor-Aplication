@@ -1,0 +1,28 @@
+﻿@page "/HomePage"
+@using Blazor.AplicationWeb.Shared
+@inject HttpClient Http
+
+<PageTitle>Home teste</PageTitle>
+
+<h3>Home</h3>
+
+@if (forecasts == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    @foreach (var forecast in forecasts)
+    {
+        <p>@forecast</p>
+    }
+
+}
+
+@code {
+    private int[]? forecasts;
+    protected override async Task OnInitializedAsync()
+    {
+        forecasts = await Http.GetFromJsonAsync<int[]>("Home");
+    }
+}
